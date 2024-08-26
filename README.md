@@ -1,5 +1,5 @@
 # bITs-bObS
-#Quran Search Tool
+Quran Search Tool
 This Python project provides functionality to search for specific keywords within the translated text of the Quran. It allows users to either search for specific keywords or fetch the complete verses of a chosen Surah (chapter) from the Quran. Additionally, it utilizes Named Entity Recognition (NER) to identify entities within the Quranic verses.
 
 Files
